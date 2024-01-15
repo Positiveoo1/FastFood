@@ -35,7 +35,7 @@
     .container_third,
     .container_fourth {
         flex-direction: column;
-        margin-left: 70px;
+        
     }
     .little_imgs {
         display: none;
