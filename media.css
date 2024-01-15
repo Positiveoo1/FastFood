@@ -4,14 +4,12 @@
     .main {
         overflow: hidden;
     }
-    nav {
-        margin-left: 70px;
-    }
     nav img:first-child {
         left: 10px;
     }
     .burger {
         width: 80px;
+        margin-left: 80px;
     }
     nav h3 {
         left: 50px;
@@ -49,9 +47,8 @@
         left: 0;
     }
     .img_container_sec img {
-        width: 60%;
-        top: 200px;
-        left: 50px;
+        width: 100%;
+        top: 270px;
     }
     .txt_container_sec {
         width: 100%;
